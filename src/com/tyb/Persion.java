@@ -1,5 +1,6 @@
 package com.tyb;
 
 public class Persion {
-    private int age;
+        private int age;
+
 }
